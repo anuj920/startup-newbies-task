@@ -61,23 +61,23 @@ a {
 }
 
 .store-img1 {
-    background: url(/assets/Images/Store-1.jpg);
+    background: url(../Images/Store-1.jpg);
 }
 
 .store-img2 {
-    background: url(/assets/Images/Store-2.jpg);
+    background: url(../Images/Store-2.jpg);
 }
 
 .store-img3 {
-    background: url(/assets/Images/Store-3.jpg);
+    background: url(../Images/Store-3.jpg);
 }
 
 .store-img4 {
-    background: url(/assets/Images/store4.jpg);
+    background: url(../Images/store4.jpg);
 }
 
 .store-img5 {
-    background: url(/assets/Images/Store5.jpg);
+    background: url(../Images/Store5.jpg);
 }
 
 .new {
